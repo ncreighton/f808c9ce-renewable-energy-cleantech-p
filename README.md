@@ -29,8 +29,6 @@ Privacy-first: all processing stays local, no data sent to third-party servers. 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/zcuped)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/3cIeVd8v55wgg88fQ8cZP3S)** — Secure checkout
 
 ## Installation
@@ -42,7 +40,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/zcuped)
 
 ## License
 
